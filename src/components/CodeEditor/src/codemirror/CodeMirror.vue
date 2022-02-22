@@ -17,6 +17,7 @@
   import 'codemirror/mode/javascript/javascript';
   import 'codemirror/mode/css/css';
   import 'codemirror/mode/htmlmixed/htmlmixed';
+  import 'codemirror/mode/lua/lua';
 
   const props = defineProps({
     mode: {

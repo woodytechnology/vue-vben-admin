@@ -7,6 +7,7 @@
           <RadioButton value="application/json"> json数据 </RadioButton>
           <RadioButton value="htmlmixed"> html代码 </RadioButton>
           <RadioButton value="javascript"> javascript代码 </RadioButton>
+          <RadioButton value="lua"> lua代码 </RadioButton>
         </RadioGroup>
       </a-space>
     </template>
